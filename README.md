@@ -1,2 +1,2 @@
-# AeroNav
-Aero Nav for flight plan and itinerary.
+# AeroNav 🧭
+Aero Nav for flight plan and itinerary. 🧭
